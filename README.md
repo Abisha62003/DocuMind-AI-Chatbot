@@ -7,6 +7,10 @@ DocuMind AI is an intelligent document question-answering chatbot developed usin
 
 Users can upload documents and ask questions in natural language. The chatbot retrieves relevant information from the uploaded documents and generates AI-powered answers.
 
+## 🖥️ Application Screenshot
+
+![DocuMind AI Chatbot UI](chatbot_ui.png)
+
 ## 🚀 Key Features
 
 - Upload multiple documents
