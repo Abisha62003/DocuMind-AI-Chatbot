@@ -1,0 +1,9 @@
+
+streamlit
+python-docx
+PyMuPDF
+requests
+numpy
+python-pptx
+sentence-transformers
+python-dateutil
