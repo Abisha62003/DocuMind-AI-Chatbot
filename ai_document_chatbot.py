@@ -1,4 +1,4 @@
-
+# DocuMind AI - Intelligent Document Chatbot
 import streamlit as st
 import docx
 import fitz
